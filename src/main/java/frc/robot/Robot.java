@@ -146,9 +146,8 @@ public class Robot extends SampleRobot {
     }
   }
 
-  /**
+  /*
    * Runs during test mode.
-   * AAAAAAAAAAAAAAAaaaaaaaaaAAaaAaaa
    */
   @Override
   public void test() {
